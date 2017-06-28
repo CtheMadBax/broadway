@@ -36,15 +36,7 @@ p {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
-#bottom-section {
-  background-color: dimgray;
-  color: white;
-}
-
-#bottom {
-  font-size: 11px;
-}
-
-.bottom-nav {
+.bottom ul {
   display: inline-block;
+  list-style-type: none;
 }
